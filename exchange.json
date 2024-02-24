@@ -1,0 +1,10 @@
+{
+  "main": "netdb-american-flight-api.raml",
+  "name": "NetDB-American-flight-api",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "netdb-american-flight-api",
+  "version": "1.0.0"
+}

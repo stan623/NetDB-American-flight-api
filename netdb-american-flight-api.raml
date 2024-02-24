@@ -1,0 +1,16 @@
+#%RAML 1.0
+title: netdb-american-flight-api
+
+/flights:
+  get:
+    queryParameters:
+      destination:
+        required: false
+        enum:
+          - SFO
+          - LAX
+          - CLE
+  post:
+
+  /{ID}:
+    get:
